@@ -1,2 +1,2 @@
-# FuckMP3
+# (Coming Soon)
 Reverse MP3 compression
